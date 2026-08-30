@@ -5,6 +5,8 @@ Element found in BST using DFS.
 Output: BFS
 Enter the element to search using BFS: 7
 Element found in BST using BFS.
+
+
 EX2:
 OUTPUT
 Start:  1 2 3 4 5 6 0 7 8
@@ -30,6 +32,8 @@ Steps to reach goal:
 [4, 5, 0]
 [6, 7, 8]
 -----
+
+
 EX3:
 OUTPUT
 Linear Regression:
@@ -38,6 +42,8 @@ R² : 0.9278
 Polynomial Regression (degree = 2):
 MSE: 49.74
 R² : 0.9919
+
+
 EX4:
 OUTPUT
 First 5 rows of dataset:
@@ -60,6 +66,8 @@ Classification Report:
   accuracy        			1.00		45
   macro avg	1.00		1.00     1.00        	45
   weighted avg 1.00		1.00     1.00		45
+
+  
   EX5:
   OUTPUT
 Sample Data:
@@ -85,6 +93,8 @@ weighted avg       0.99      0.99      0.99      1552
 New Email Predictions:
 'Congratulations! You've won a $1000 Walmart gift card. Click here to claim now.' → Spam
 'Hi John, just wanted to confirm our meeting tomorrow at 10 AM.' → Ham
+
+
 EX6:
 OUTPUT  	
 Classification Report:
@@ -95,7 +105,11 @@ Classification Report:
     accuracy                           0.97        30
    macro avg       0.96      0.98      0.97        30
 weighted avg       0.97      0.97      0.97        30
+
+
 EX7:
+
+
 EX8:
 OUTPUT 
 Model Accuracy: 0.8472
@@ -112,6 +126,8 @@ weighted avg       0.85      0.85      0.85     25000
 New Review Predictions:
 'This movie was absolutely fantastic! The story, the acting, everything was great.' → Positive
 'I hated this movie. It was boring and a complete waste of time.' → Negative
+
+
 EX9:
 OUTPUT 
 +---------+------------+
@@ -154,6 +170,8 @@ OUTPUT
 +-----------+----------------------+----------------------------------------------------+
 | chol(157) | 0.0                  | 0.006060606060606061 		|
 +-----------+----------------------+----------------------------------------------------+
+
+
 EX10:
 OUTPUT
 Data shape: (3023, 5655)
