@@ -7,7 +7,7 @@ Enter the element to search using BFS: 7
 Element found in BST using BFS.
 
 
-EX2:
+**EX2:
 OUTPUT
 Start:  1 2 3 4 5 6 0 7 8
 Goal:   1 2 3 4 5 6 7 8 0
@@ -31,7 +31,7 @@ Steps to reach goal:
 [1, 2, 3]
 [4, 5, 0]
 [6, 7, 8]
------
+-----**
 
 
 EX3:
